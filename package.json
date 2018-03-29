@@ -1,0 +1,11 @@
+{
+  "name": "pubsub_redis",
+  "scripts": {
+    "sub": "node sub.js",
+    "pub": "node pub.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "redis": "^2.8.0"
+  }
+}
